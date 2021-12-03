@@ -1,6 +1,4 @@
-## Classic CS algorithms with Python 
-
-
+## Classic CS algorithms with Python
 
 # Chapter 1 - Small problems
 
