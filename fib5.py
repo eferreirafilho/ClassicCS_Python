@@ -1,4 +1,3 @@
-
 def fib5(n: int) -> int:
     if n == 0: return n #special case
     last: int = 0 #initially set fib(0)
@@ -8,4 +7,5 @@ def fib5(n: int) -> int:
     return next
 
 if __name__ == "__main__":
-    print(fib5(6))
+    print(fib5(600))
+
